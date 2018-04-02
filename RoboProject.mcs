@@ -1,0 +1,423 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=F:\Desktop\RoboProject\main.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=F:\Desktop\RoboProject\aggressive.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=F:\Desktop\RoboProject\fear.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=F:\Desktop\RoboProject\love.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=F:\Desktop\RoboProject\curious.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=F:\Desktop\RoboProject\accelerometer.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\motors.c|Libraries\prox.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=F:\Desktop\RoboProject\ad_conv.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\motors.c|Libraries\prox.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=F:\Desktop\RoboProject\init_port.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\motors.c|Libraries\prox.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=F:\Desktop\RoboProject\led.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\motors.c|Libraries\prox.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=F:\Desktop\RoboProject\prox.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\motors.c|Libraries\prox.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=F:\Desktop\RoboProject\e_motors.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\motors.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=F:\Desktop\RoboProject\e_agenda.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\motors.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File012]
+Location=F:\Desktop\RoboProject\e_calc_po3030k.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File013]
+Location=F:\Desktop\RoboProject\e_calc_po6030k.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File014]
+Location=F:\Desktop\RoboProject\e_calc_po8030d.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File015]
+Location=F:\Desktop\RoboProject\e_common.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File016]
+Location=F:\Desktop\RoboProject\e_interrupt.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File017]
+Location=F:\Desktop\RoboProject\e_po3030k_registers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File018]
+Location=F:\Desktop\RoboProject\e_po6030k_registers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File019]
+Location=F:\Desktop\RoboProject\e_po8030d_registers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File020]
+Location=F:\Desktop\RoboProject\e_timers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File021]
+Location=F:\Desktop\RoboProject\e_uart1_rx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File022]
+Location=F:\Desktop\RoboProject\e_uart1_tx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File023]
+Location=F:\Desktop\RoboProject\e_lsm330.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File024]
+Location=F:\Desktop\RoboProject\e_I2C_master_module.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File025]
+Location=F:\Desktop\RoboProject\e_I2C_protocol.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File026]
+Location=F:\Desktop\RoboProject\e_init_port.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File027]
+Location=F:\Desktop\RoboProject\bull.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File028]
+Location=F:\Desktop\RoboProject\matador.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File029]
+Location=F:\Desktop\RoboProject\maze.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File030]
+Location=F:\Desktop\RoboProject\RoboProject.cof
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=512 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File031]
+Location=F:\Desktop\RoboProject\RoboProject.hex
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|F:\Desktop\RoboProject\Libraries\library\uart;F:\Desktop\RoboProject\Libraries\library\codec||$(INCDIR)|F:\Desktop\RoboProject\Libraries\library||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|main.c|aggressive.c|fear.c|love.c|curious.c|Libraries\accelerometer.c|Libraries\ad_conv.c|Libraries\init_port.c|Libraries\led.c|Libraries\prox.c|Libraries\library\motor_led\advance_one_timer\e_motors.c|Libraries\library\motor_led\advance_one_timer\e_agenda.c|Libraries\library\camera\fast_2_timer\e_calc_po3030k.c|Libraries\library\camera\fast_2_timer\e_calc_po6030k.c|Libraries\library\camera\fast_2_timer\e_calc_po8030d.c|Libraries\library\camera\fast_2_timer\e_common.c|Libraries\library\camera\fast_2_timer\e_interrupt.s|Libraries\library\camera\fast_2_timer\e_po3030k_registers.c|Libraries\library\camera\fast_2_timer\e_po6030k_registers.c|Libraries\library\camera\fast_2_timer\e_po8030d_registers.c|Libraries\library\camera\fast_2_timer\e_timers.c|Libraries\library\uart\e_uart1_rx_char.s|Libraries\library\uart\e_uart1_tx_char.s|Libraries\library\acc_gyro\e_lsm330.c|Libraries\library\I2C\e_I2C_master_module.c|Libraries\library\I2C\e_I2C_protocol.c|Libraries\library\motor_led\e_init_port.c|bull.c|matador.c|maze.c||<obj>||<lib>||<lkr>|C:\Program Files (x86)\Microchip\MPLAB C30\support\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=512 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
